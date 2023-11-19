@@ -9,11 +9,9 @@ Original file is located at
 
 #!pip install streamlit
 
-pip install beautifulsoup4
-
-pip install requests
-
-pip install pandas
+#pip install beautifulsoup4
+#pip install requests
+#pip install pandas
 
 # Commented out IPython magic to ensure Python compatibility.
 # %%writefile deneme.py
