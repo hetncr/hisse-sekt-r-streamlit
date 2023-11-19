@@ -9,7 +9,7 @@ Original file is located at
 
 #!pip install streamlit
 
-pip install beautifulsoup4
+!pip install beautifulsoup4
 
 pip install requests
 
