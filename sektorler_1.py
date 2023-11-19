@@ -38,11 +38,11 @@ for row in table.find_all("tr"):
 #     # Get the cells in the row
     cells = row.find_all("td")
 #     # Get the stock name
-     hisse = cells[0].find("a").text
+    hisse = cells[0].find("a").text
 #     # Get the sector name
-     sektor = cells[2].text
+    sektor = cells[2].text
 #     # Add the pair to the dictionary
-     hisse_sektor[hisse] = sektor
+    hisse_sektor[hisse] = sektor
 # 
 # # Create an input box to enter the stock name
 hisse_input = st.text_input("Hisse Adı:")
