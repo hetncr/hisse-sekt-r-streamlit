@@ -7,13 +7,13 @@ Original file is located at
     https://colab.research.google.com/gist/hetncr/d15431930aa63ce4d1a9beabf0c81557/sekt-rler-streamlit-yeni-proje.ipynb
 """
 
-!pip install streamlit
+#!pip install streamlit
 
-pip install beautifulsoup4
+#pip install beautifulsoup4
 
-pip install requests
+#pip install requests
 
-pip install pandas
+#pip install pandas
 
 # Commented out IPython magic to ensure Python compatibility.
 # %%writefile deneme.py
